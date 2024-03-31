@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 #include"reverse.h"
 
 int main(char* argv[]){
